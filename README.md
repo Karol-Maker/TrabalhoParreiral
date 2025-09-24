@@ -1,2 +1,5 @@
 # TrabalhoParreiral
-Trabalho de porgramação web do professor Jackson
+
+Estudantes:
+Karoline Paula Coletti Gomes
+Pedro Henrique Zanotelli
